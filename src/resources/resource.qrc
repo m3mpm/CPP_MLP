@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>icons/app_icon.png</file>
+        <file>weigths/weigths_2_layers.csv</file>
+        <file>weigths/weigths_3_layers.csv</file>
+        <file>weigths/weigths_4_layers.csv</file>
+        <file>weigths/weigths_5_layers.csv</file>
+    </qresource>
+</RCC>
